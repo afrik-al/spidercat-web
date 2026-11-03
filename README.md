@@ -27,14 +27,13 @@ Una aplicación web interactiva inspirada en el universo de Spidercat, diseñada
 
 ## ¿Qué es este proyecto? ⋆˚꩜｡
 
-Este proyecto nació con la idea de crear un regalo único, personalizado y útil para un amigo: una plataforma web interactiva basada en el personaje de Spidercat que combina un diseño tierno y visual con la función práctica de un *habit tracker*. El objetivo es motivar el día a día combinando el afecto de un detalle exclusivo con una herramienta de bienestar y constancia personal. (★ω★)
+Este proyecto nació con la idea de crear un regalo único, personalizado y útil para un amigo: una plataforma web interactiva basada en el personaje de Spidercat que combina un diseño tierno y visual con la función práctica de un *habit tracker*. (★ω★)
 
 ---
 
 ## Características principales ⋆˚꩜｡
 
-* **Regalo Personalizado y Útil:** Diseñado a medida para sorprender con un concepto original que une la temática de Spidercat con el seguimiento de hábitos diarios.
-* **Diseño Moderno y Kawaii:** Interfaz limpia, cuidada y adaptada por completo a la temática.
+* **Diseño Kawaii:** 
 * **Totalmente Responsive:** Adaptada para móviles, tablets y ordenadores.
 * **Despliegue Continuo:** Alojada y accesible mediante GitHub Pages.
 
@@ -45,7 +44,7 @@ Este proyecto nació con la idea de crear un regalo único, personalizado y úti
 * **HTML5:** Estructura semántica de la web.
 * **CSS3:** Estilos personalizados, animaciones y diseño adaptativo.
 * **JavaScript (ES6+):** Lógica de interacción y dinamismo del seguimiento.
-* **GitHub Pages:** Plataforma de alojamiento y despliegue.
+* **GitHub Pages:** Plataforma de alojamiento.
 
 ---
 
@@ -92,14 +91,13 @@ An interactive web application inspired by the Spidercat universe, originally de
 
 ## What is this project? ⋆˚꩜｡
 
-This project was born with the idea of creating a unique, personalized, and useful gift for a friend: an interactive web platform based on the Spidercat character that combines a cute, visual design with the practical function of a habit tracker. The main goal is to inspire daily motivation by blending a thoughtful custom gift with a personal growth and wellness tool. (★ω★)
+This project was born with the idea of creating a unique, personalized, and useful gift for a friend: an interactive web platform based on the Spidercat character that combines a cute, visual design with the practical function of a habit tracker. (★ω★)
 
 ---
 
 ## Key Features ⋆˚꩜｡
 
-* **Personalized & Practical Gift:** Custom-designed to surprise someone with an original concept merging the Spidercat theme with daily habit tracking.
-* **Modern & Kawaii Design:** Clean layout tailored specifically for the Spidercat theme.
+* **Kawaii Design:** 
 * **Fully Responsive:** Optimized across mobile phones, tablets, and desktop computers.
 * **Continuous Deployment:** Hosted and served directly through GitHub Pages.
 
